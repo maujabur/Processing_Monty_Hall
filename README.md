@@ -6,6 +6,8 @@ http://en.wikipedia.org/wiki/Monty_Hall_problem
 
 As exposed on http://www.ai-class.com/
 
+Published on http://www.openprocessing.org/sketch/43734
+
 On this simulation the player always picks
 door number 0 and then randomly chooses to keep
 or switch doors after all but one - plus the first 
